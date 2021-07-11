@@ -20,7 +20,7 @@
   
 <img width="45%" height="215px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romulorvs&show_icons=true&locale=en&layout=compact" alt="romulorvs" />
   
-<img width="45%" align="center" height="184px" src="https://github-readme-stats.vercel.app/api?username=romulorvs&show_icons=true&locale=en" alt="romulorvs" />
+<img width="45%" align="center" height="185px" src="https://github-readme-stats.vercel.app/api?username=romulorvs&show_icons=true&locale=en" alt="romulorvs" />
   
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romulorvs&" alt="romulorvs" />
 
