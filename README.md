@@ -1,5 +1,7 @@
+[![](https://raw.githubusercontent.com/romulorvs/romulorvs/main/helloworld.png)](https://raw.githubusercontent.com/romulorvs/romulorvs/main/helloworld.png)
+
 ## Hi 👋, I'm Romulo Santos
-*"Just another Frontend developer from Rio de Janeiro, Brazil"*
+*"Just a Frontend developer from Rio de Janeiro, Brazil"*
 
 💬 Ask me about **React, Next.JS, Node, Typescript and anything code related**
 
