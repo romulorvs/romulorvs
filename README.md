@@ -1,6 +1,6 @@
 [![](https://raw.githubusercontent.com/romulorvs/romulorvs/main/helloworld.png)](https://raw.githubusercontent.com/romulorvs/romulorvs/main/helloworld.png)
 
-## Hi 👋, I'm Romulo Santos
+## Hi 👋, I'm Romulo Vieira
 *"Just a Frontend developer from Rio de Janeiro, Brazil"*
 
 💬 Ask me about **React, Next.JS, Node, Typescript and anything code related**
