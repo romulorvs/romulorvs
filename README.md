@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/romulorvs/romulorvs/main/back_3.png)](https://raw.githubusercontent.com/romulorvs/romulorvs/main/back_3.png)
+[![](https://raw.githubusercontent.com/romulorvs/romulorvs/main/back_4.png)](https://raw.githubusercontent.com/romulorvs/romulorvs/main/back_4.png)
 
 ## Hi 👋, I'm Romulo Vieira
 *"Just a Frontend developer from Rio de Janeiro, Brazil"*
