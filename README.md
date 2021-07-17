@@ -1,13 +1,11 @@
 ## Hi 👋, I'm Romulo Santos
-### Just a Frontend developer from Rio de Janeiro, Brazil
-
----
+*"Just another Frontend developer from Rio de Janeiro, Brazil"*
 
 💬 Ask me about **React, Next.JS, Node, Typescript and anything code related**
 
 🌱 I’m currently learning **Vue.JS, GraphQL and Python**
 
-📫 How to reach me **romulovieira@gmail.com**
+📫 How to reach me: **romulovieira@gmail.com**
  
 ## Connect with me:
 <p>
