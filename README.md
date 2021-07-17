@@ -4,9 +4,9 @@
 
 ---
 
-- 💬 Ask me about **React, Next.JS, Typescript and anything code related**
+- 💬 Ask me about **React, Next.JS, Node, Typescript and anything code related**
 
-- 🌱 I’m currently learning **Flutter, Angular and Spring**
+- 🌱 I’m currently learning **Vue.JS, GraphQL and Pyhton**
 
 - 📫 How to reach me **romulovieira@gmail.com**
  
