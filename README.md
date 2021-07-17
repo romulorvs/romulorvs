@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React, Next.JS, Node, Typescript and anything code related**
 
-- 🌱 I’m currently learning **Vue.JS, GraphQL and Pyhton**
+- 🌱 I’m currently learning **Vue.JS, GraphQL and Python**
 
 - 📫 How to reach me **romulovieira@gmail.com**
  
