@@ -26,5 +26,5 @@
 
 ---
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=romulorvs&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="romulorvs" />&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=romulorvs&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="romulorvs" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=romulorvs&show_icons=true&locale=en&theme=react&hide_border=true" alt="romulorvs" />
