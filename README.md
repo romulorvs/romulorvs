@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/romulorvs/romulorvs/main/back_4.png)](https://raw.githubusercontent.com/romulorvs/romulorvs/main/back_4.png)
+[![](https://raw.githubusercontent.com/romulorvs/romulorvs/main/backimg.png)](https://raw.githubusercontent.com/romulorvs/romulorvs/main/backimg.png)
 
 ## Hi 👋, I'm Romulo Vieira
 *"Just a Frontend developer from Rio de Janeiro, Brazil"*
@@ -15,6 +15,6 @@
 
 ---
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=romulorvs&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="romulorvs" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=romulorvs&show_icons=true&locale=en&theme=react&hide_border=true" alt="romulorvs" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=romulorvs&&theme=react&hide_border=true" alt="romulorvs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=romulorvs&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="romulorvs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=romulorvs&show_icons=true&locale=en&theme=nord&hide_border=true" alt="romulorvs" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=romulorvs&&theme=nord&hide_border=true" alt="romulorvs" /></p>
