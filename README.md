@@ -1,7 +1,7 @@
 [![](https://raw.githubusercontent.com/romulorvs/romulorvs/main/backimgnoshadow.png)](https://raw.githubusercontent.com/romulorvs/romulorvs/main/backimgnoshadow.png)
 
 ## Hi 👋, I'm Romulo Vieira
-👦  I'm just a **Front-End** developer from **Rio de Janeiro, Brazil**.
+👦  I'm a **Front-End** developer from **Rio de Janeiro, Brazil**.
 
 💬  Ask me about **React, Next.JS, Node, Typescript** or anything code related.
 
@@ -26,6 +26,5 @@
 
 ---
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=romulorvs&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="romulorvs" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=romulorvs&show_icons=true&locale=en&theme=react&hide_border=true" alt="romulorvs" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=romulorvs&&theme=react&hide_border=true" alt="romulorvs" /></p>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=romulorvs&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="romulorvs" />&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=romulorvs&show_icons=true&locale=en&theme=react&hide_border=true" alt="romulorvs" />
