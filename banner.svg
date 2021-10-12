@@ -6,11 +6,10 @@
     <rect y="1" width="1016" height="228" rx="8" stroke="url(#paint0_linear)" stroke-width="16.9417" mask="url(#path-1-inside-1)"/>
     <rect width="1016" height="221" rx="8" fill="#20232A"/>
     <style type="text/css">
-        @import url(https://fonts.googleapis.com/css?family=Roboto+Mono);
         <![CDATA[
             .outerText {
                 fill: white;
-                font-family: "Roboto Mono";
+                font-family: monospace, sans-serif;
                 font-style: normal;
                 font-weight: 500;
                 font-size: 26px;
