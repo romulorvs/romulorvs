@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/romulorvs/romulorvs/main/banner-cursor-2.svg)](https://raw.githubusercontent.com/romulorvs/romulorvs/main/banner-cursor-2.svg)
+[![](https://raw.githubusercontent.com/romulorvs/romulorvs/main/banner-cursor.svg)](https://raw.githubusercontent.com/romulorvs/romulorvs/main/banner-cursor.svg)
 
 ## Hi 👋, I'm Romulo Vieira
 👦  I'm a **Front-End** developer from **Rio de Janeiro, Brazil**.
