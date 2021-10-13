@@ -7,7 +7,7 @@
 
 🌱  I’m currently learning **Vue.JS, GraphQL and Python**.
 
-📫  How to reach me: **[LinkedIn](https://www.linkedin.com/in/dev-romulo-vieira/)** | **[HackerRank](https://www.hackerrank.com/romulovieira)**.
+📫  How to reach me: **[LinkedIn](https://www.linkedin.com/in/dev-romulo-vieira/)**
 
 ---
 
