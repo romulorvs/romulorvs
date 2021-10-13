@@ -46,7 +46,7 @@
         <animate id="anim2" attributeName="opacity" from="1" to="0" dur="0.05s" begin="anim1.end" />
         <animate xlink:href="#path1" attributeName="d" from="m0,110 h310" to="m0,110 h1600" dur="4.5s" begin="anim1.begin" />
         <path id="path1" />
-        <text x="305" y="110">
+        <text x="315" y="110">
             <textPath xlink:href="#path1"><tspan class="b">print</tspan><tspan class="y">(</tspan><tspan class="g">"Romulo Vieira"</tspan><tspan class="y">)</tspan><tspan class="b">;</tspan></textPath><tspan class="cursor">|</tspan>
         </text>
     </g>
@@ -55,7 +55,7 @@
         <animate id="anim4" attributeName="opacity" from="1" to="0" dur="0.05s" begin="anim3.end" />
         <animate xlink:href="#path2" attributeName="d" from="m0,110 h215" to="m0,110 h1400" dur="4.5s" begin="anim3.begin" />
         <path id="path2" />
-        <text x="220" y="110">
+        <text x="230" y="110">
             <textPath xlink:href="#path2"><tspan class="b">console.log</tspan><tspan class="y">(</tspan><tspan class="g">"Front-End Developer"</tspan><tspan class="y">)</tspan><tspan class="b">;</tspan></textPath><tspan class="cursor">|</tspan>
         </text>
     </g>
@@ -64,7 +64,7 @@
         <animate id="anim6" attributeName="opacity" from="1" to="0" dur="0.05s" begin="anim5.end" />
         <animate xlink:href="#path3" attributeName="d" from="m0,110 h200" to="m0,110 h1400" dur="4.5s" begin="anim5.begin" />
         <path id="path3" />
-        <text x="220" y="110">
+        <text x="230" y="110">
             <textPath xlink:href="#path3"><tspan class="b">System.out.println</tspan><tspan class="y">(</tspan><tspan class="g">"From Brazil"</tspan><tspan class="y">)</tspan><tspan class="b">;</tspan></textPath><tspan class="cursor">|</tspan>
         </text>
     </g>
@@ -73,7 +73,7 @@
         <animate id="anim8" attributeName="opacity" from="1" to="0" dur="0.05s" begin="anim7.end" />
         <animate xlink:href="#path4" attributeName="d" from="m0,110 h215" to="m0,110 h1600" dur="4.5s" begin="anim7.begin" />
         <path id="path4" />
-        <text x="220" y="110">
+        <text x="230" y="110">
             <textPath xlink:href="#path4"><tspan class="b">echo</tspan> <tspan class="g">"Linkedin: /dev-romulo-vieira"</tspan><tspan class="b">;</tspan></textPath><tspan class="cursor">|</tspan>
         </text>
     </g>
