@@ -1,6 +1,5 @@
 [![](https://raw.githubusercontent.com/romulorvs/romulorvs/main/banner-cursor-ext-fonts.svg)](https://raw.githubusercontent.com/romulorvs/romulorvs/main/banner-cursor-ext-fonts.svg)
 
-## Hi 👋, I'm Romulo Vieira
 👦  I'm a **Front-End** developer from **Rio de Janeiro, Brazil**.
 
 💬  Ask me about **React, Next.JS, Node, Typescript** or anything code related.
