@@ -2,9 +2,9 @@
 
 👦  I'm a **Front-End** developer from **Rio de Janeiro, Brazil**.
 
-💬  Ask me about **React, Next.JS, Node, Typescript** or anything code related.
+💬  Ask me about **React, Next.JS, Angular, Python, Node, Typescript** or anything code related.
 
-🌱  I’m currently learning **Vue.JS, GraphQL and Python**.
+🌱  I’m currently learning **Vue.JS, GraphQL and Cloud Computing**.
 
 📫  How to reach me: **[LinkedIn](https://www.linkedin.com/in/dev-romulo-vieira/)**
 
