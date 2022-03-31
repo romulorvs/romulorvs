@@ -1,6 +1,6 @@
 [![](https://raw.githubusercontent.com/romulorvs/romulorvs/main/banner-cursor-ext-fonts.svg)](https://raw.githubusercontent.com/romulorvs/romulorvs/main/banner-cursor-ext-fonts.svg)
 
-👦  I'm a **Software Engineer** developer from **Rio de Janeiro, Brazil**.
+👦  I'm a **Software Engineer** from **Rio de Janeiro, Brazil**.
 
 💬  Ask me about **Python, Node, AWS, React, Next.JS, Angular** or anything tech related.
 
