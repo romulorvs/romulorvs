@@ -1,8 +1,8 @@
 [![](https://raw.githubusercontent.com/romulorvs/romulorvs/main/banner-cursor-ext-fonts.svg)](https://raw.githubusercontent.com/romulorvs/romulorvs/main/banner-cursor-ext-fonts.svg)
 
-👦  I'm a **Front-End** developer from **Rio de Janeiro, Brazil**.
+👦  I'm a **Software Engineer** developer from **Rio de Janeiro, Brazil**.
 
-💬  Ask me about **React, Next.JS, Python, Node, AWS** or anything tech related.
+💬  Ask me about **Python, Node, AWS, React, Next.JS, Angular** or anything tech related.
 
 🌱  I’m currently studying **Vue.JS and Flutter**.
 
