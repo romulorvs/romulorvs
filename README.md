@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/romulorvs/romulorvs/0c9127cc7b286bdb1524d38369d6898fab270d21/banner-cursor-ext-fonts.svg)](https://raw.githubusercontent.com/romulorvs/romulorvs/0c9127cc7b286bdb1524d38369d6898fab270d21/banner-cursor-ext-fonts.svg)
+[![](https://raw.githubusercontent.com/romulorvs/romulorvs/b640dad7f3994dba56237fb528f0e09e0af3ee98/banner-cursor-ext-fonts.svg)](https://raw.githubusercontent.com/romulorvs/romulorvs/b640dad7f3994dba56237fb528f0e09e0af3ee98/banner-cursor-ext-fonts.svg)
 
 👦  I'm a **Software Engineer** from **Rio de Janeiro, Brazil**.
 
