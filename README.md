@@ -10,6 +10,8 @@
 
 ---
 
+### Skills:
+
 <a href="https://www.python.org/" title="Python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://aws.amazon.com/" title="AWS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://nodejs.org" title="Node.JS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="40"/> </a>&nbsp;
