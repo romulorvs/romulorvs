@@ -6,7 +6,7 @@
 
 💬  Ask me about **Python, Node, AWS, React, Next.JS, Angular** or anything tech related.
 
-🌱  Currently studying **Vue.JS and Flutter**.
+🌱  Currently specializing in **Cloud Computing** and **Software architecture**.
 
 📫  How to reach me: **[LinkedIn](https://www.linkedin.com/in/dev-romulo-vieira/)**
 
