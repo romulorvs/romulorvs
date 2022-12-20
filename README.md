@@ -26,7 +26,8 @@
 <a href="https://www.w3schools.com/css/" title="CSS3" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.w3.org/html/" title="HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>&nbsp;&nbsp;
 
-## Repositories:
+<!-- ## Repositories:
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=romulorvs&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="romulorvs" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=romulorvs&show_icons=true&locale=en&theme=react&hide_border=true" alt="romulorvs" />
+-->
