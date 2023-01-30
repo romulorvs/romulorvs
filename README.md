@@ -1,5 +1,3 @@
-[![](https://raw.githubusercontent.com/romulorvs/romulorvs/b640dad7f3994dba56237fb528f0e09e0af3ee98/banner-cursor-ext-fonts.svg)](https://raw.githubusercontent.com/romulorvs/romulorvs/b640dad7f3994dba56237fb528f0e09e0af3ee98/banner-cursor-ext-fonts.svg)
-
 ## Profile:
 
 👦  **Software Engineer** from **Rio de Janeiro, Brazil**.
