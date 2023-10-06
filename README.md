@@ -2,7 +2,7 @@
 
 👦  **Software Engineer** from **Rio de Janeiro, Brazil**.
 
-💬  Ask me about **Python, Node, AWS, React, Next.JS, Angular** or anything tech related.
+💬  Ask me about **React, Next.JS, Node, AWS, Javascript, Python, Angular** or anything tech related.
 
 🌱  Currently specializing in **Cloud Computing** and **Software architecture**.
 
