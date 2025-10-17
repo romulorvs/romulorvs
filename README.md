@@ -13,7 +13,6 @@
 <a href="https://reactjs.org/" title="React" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>&nbsp;
 <a href="https://nodejs.org" title="Node.JS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="40"/> </a>
 <a href="https://www.python.org/" title="Python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://aws.amazon.com/" title="AWS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.mysql.com/" title="MySQL" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.mongodb.com/" title="MongoDB" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" title="Docker" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>&nbsp;
