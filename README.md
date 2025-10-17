@@ -4,7 +4,7 @@
 
 💬  Ask me about **React, Next.JS, Node, MongoDB, AWS, Javascript, Python, Angular** or anything tech related.
 
-🌱  Currently specializing in **Cloud Computing** and **Software architecture**.
+🌱  Currently specializing in **Software Architecture**.
 
 📫  How to reach me: **[LinkedIn](https://www.linkedin.com/in/dev-romulo-vieira/)**
 
